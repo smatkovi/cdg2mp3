@@ -1,1 +1,1 @@
-conver cdg karaoke files to mp4
+convert cdg karaoke files to mp4
